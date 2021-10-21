@@ -1,0 +1,15 @@
+T-Diagram practice
+
+Code Snippet 1
+	console will display: ["Paula", "Smith", "1234 Main Street", "St. Louis", "MO", 12345]
+
+Code Snippet 2
+	line3 frozen is set to ["broccoli", "ice cream"]
+	line4 frozen ["broccoli", "ice cream"] -> ["broccoli", "ice cream", "hashbrowns"]
+	console will display: ["broccoli", "ice cream", "hashbrowns"]
+
+Code Snippet 3
+	line 1 movieLibrary is set to ["Bambi", "E.T.", "Toy Story"]
+	line2 movieLibrary ["Bambi", "E.T.", "Toy Story"] -> ["Bambi", "E.T.", "Toy Story", "Zoro"]
+	line3 movieLibrary ["Bambi", "E.T.", "Toy Story", "Zoro"] -> ["Beetlejuice", "E.T.", "Toy Story", "Zoro"]
+	console will display: ["Beetlejuice", "E.T.", "Toy Story", "Zoro"]

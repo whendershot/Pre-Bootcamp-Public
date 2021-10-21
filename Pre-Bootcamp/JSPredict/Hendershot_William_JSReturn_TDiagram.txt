@@ -1,0 +1,70 @@
+T-Diagram Code Challenge: Return
+
+Code Snippet 1
+	Console will display: hello
+	Console will display: dojo
+
+Code Snippet 2
+	Console will display: hello
+	result := 15
+	Console will display: result is 15
+
+Code Snippet 3
+	Console will display: num is 3
+	result := 18
+	Console will display: result is 18
+
+Code Snippet 4
+	num := 15
+	Console will display: 15
+	Console will display: 10
+	result := 10
+	Console will display: 10
+	Console will display: 15
+
+Code Snippet 5
+	num := 15
+	Console will display: 15
+	Console will display: 10
+	result := 20
+	Console will display: 20
+	Console will display: 15
+
+Code Snippet 6
+	line 6: Console will display: num is 3
+	line 6: interim var x1 := 6
+	line 6: Console will display: num is 5
+	line 6: interim var x2 := 10
+	line 6: result := 16
+	line 7: Console will display result is 16
+
+Code Snippet 7
+	line 4: Console will display: 5
+	line 5: Console will display: 8
+
+Code Snippet 8
+	line 5: Console will display: 2
+	line 5: Console will display: 5
+	line 6: Console will display: 3
+	line 6: Console will display: 8
+
+Code Snippet 9
+	line 6: Console will display: sum is 5
+	line 6: interim var x1 := 5
+	line 6: Console will display: sum is 8
+	line 6: interim var x2 := 8
+	line 6: result := 13
+	line 7: Console will display: result is 13
+
+Code Snippet 10
+	line 6: Console will display: sum is 5
+	line 6: interim var x1 := 5
+	line 6: Console will display: sum is 3
+	line 6: Console will display: sum is 6
+	line 6: interim var x2 := 6
+	line 6: Console will display: sum is 3
+	line 6: Console will display: sum is 5
+	line 6: Console will display: sum is 8
+	line 6: interim var x3 := 8
+	line 6: result := x1 + x2 + x3 = 5 + 6 + 8 = 19
+	line 7: Console will display: result is 19
